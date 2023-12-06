@@ -7,7 +7,7 @@
     lda #COUNTER2
     sta COUNT_PTR
 
-    ; store max range
+    ; store max range - this is the size of the input, change for test input or own input
     lda #$C8
     sta $18
     lda #$54
