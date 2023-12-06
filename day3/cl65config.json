@@ -1,0 +1,5 @@
+{
+  "executable": "C:\\Data\\#Programming\\famicom\\cc65\\bin\\cl65",
+  "input": "day3.s",
+  "params": "--verbose --target nes -o day3.nes"
+}
